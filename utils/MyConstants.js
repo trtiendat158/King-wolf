@@ -3,7 +3,7 @@ var MyConstants = {
   DB_USER: 'trtiendat',
   DB_PASS: '123123ttd',
   DB_DATABASE: 'kingwolf',
-  HOSTNAME: 'http://kingwolfsuper.herokuapp.com/',
+  HOSTNAME: 'kingwolfsuper.herokuapp.com',
   EMAIL_USER: 'tan.187pm20569@vanlanguni.vn',
   EMAIL_PASS: 'VLU187pm20569',
 };

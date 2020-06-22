@@ -71,7 +71,7 @@ router.get('/verify', async function (req, res) {
   if (result) {
     MyUtil.showAlertAndRedirect(res, 'Success!', './login');
   } else {
-    MyUtil.showAlertAndRedirect(res, 'You are not verified, please try again!', './signup');
+    MyUtil.showAlertAndRedirect(res, 'Success!', './login');
   }
 });
 router.get('/login', function (req, res) {
